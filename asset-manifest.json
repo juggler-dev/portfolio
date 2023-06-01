@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/juggler-dev.github.io/static/js/main.246b1937.js",
-    "static/js/709.496b44b4.js": "/juggler-dev.github.io/static/js/709.496b44b4.js",
-    "favicon.ico": "/juggler-dev.github.io/favicon.ico",
-    "index.html": "/juggler-dev.github.io/index.html",
-    "favicon-32.png": "/juggler-dev.github.io/favicon-32.png",
-    "favicon-16.png": "/juggler-dev.github.io/favicon-16.png",
-    "manifest.json": "/juggler-dev.github.io/manifest.json",
-    "serve.json": "/juggler-dev.github.io/serve.json",
-    "main.246b1937.js.map": "/juggler-dev.github.io/static/js/main.246b1937.js.map",
-    "709.496b44b4.js.map": "/juggler-dev.github.io/static/js/709.496b44b4.js.map"
+    "main.js": "/portfolio/static/js/main.246b1937.js",
+    "static/js/709.496b44b4.js": "/portfolio/static/js/709.496b44b4.js",
+    "favicon.ico": "/portfolio/favicon.ico",
+    "index.html": "/portfolio/index.html",
+    "favicon-32.png": "/portfolio/favicon-32.png",
+    "favicon-16.png": "/portfolio/favicon-16.png",
+    "manifest.json": "/portfolio/manifest.json",
+    "serve.json": "/portfolio/serve.json",
+    "main.246b1937.js.map": "/portfolio/static/js/main.246b1937.js.map",
+    "709.496b44b4.js.map": "/portfolio/static/js/709.496b44b4.js.map"
   },
   "entrypoints": [
     "static/js/709.496b44b4.js",
